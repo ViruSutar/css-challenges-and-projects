@@ -1,0 +1,137 @@
+.login-root {
+    /* background: #fff; */
+    height: 100vh;
+}
+
+.box-root {
+    box-sizing: border-box;
+}
+
+.flex-flex {
+    display: flex;
+}
+
+.flex-direction--column {
+    flex-direction: column;
+}
+
+.flex-justifyContent--center {
+    justify-content: center;
+}
+.align-center {
+    align-content: center;
+}
+.center-center {
+    justify-content: center;
+    align-content: center;
+}
+
+.loginbackground {
+    position: fixed;
+    transform: skewY(-12deg);
+    z-index: 0;
+    top: -250px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.box-background--white {
+    background-color: #fff;
+}
+
+.padding-top--64 {
+    padding-top: 64px;
+}
+.padding-top--48 {
+    padding-top: 48px;
+}
+.padding-top--24 {
+    padding-top: 24px;
+}
+.padding-bottom--24 {
+    padding-bottom: 24px;
+}
+.padding-horizontal--48 {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.padding-bottom--15 {
+    padding-bottom: 15px;
+}
+
+.loginbackground-gridContainer {
+
+}
+
+.box-divider--light-all-2 {
+
+}
+
+.animationLeftRight {
+
+}
+
+.animationRightLeft {
+
+}
+
+.tans3s {
+
+}
+
+.tans4s {
+
+}
+
+.box-background--blue800 {
+    background-color: #110d65;
+}
+
+.box-background--blue {
+    background-color: #6336df;
+}
+
+.box-background--cyan200 {
+    background-color: #9bb9ff;
+}
+
+.box-background--gray100 {
+    background-color: #e5e5e5;
+}
+
+.box-divider--light-all-2 {
+    border: 2px solid #333;
+}
+
+.formbg-outer {
+
+}
+
+.formbg {
+
+}
+
+.formbg-inner {
+
+}
+
+.field {
+
+}
+
+.grid--50-50 {
+
+}
+
+.field-checkbox {
+
+}
+
+.footer-link {
+
+}
+
+.listing {
+
+}
