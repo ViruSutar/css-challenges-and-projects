@@ -186,3 +186,123 @@
 
 ## Projects
 
+<table>
+    <tr>
+        <th>Challenge</th>
+        <th>Source</th>
+        <th>Image</th>
+        <th>Live URL</th>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 1
+        </td>
+        <td>
+            <a href="./projects/live-class-project-01/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result1.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 2
+        </td>
+        <td>
+            <a href="./projects/live-class-project-2/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result2.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 3
+        </td>
+        <td>
+            <a href="./projects/live-class-project-3/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result3.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 4
+        </td>
+        <td>
+            <a href="./projects/live-class-project-04/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result4.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 5
+        </td>
+        <td>
+            <a href="./projects/live-class-project-5/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result5.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 6
+        </td>
+        <td>
+            <a href="./projects/live-class-project-6/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result6.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 7
+        </td>
+        <td>
+            <a href="./projects/live-class-project-7/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result7.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Class Project 8
+        </td>
+        <td>
+            <a href="./projects/live-class-project-8/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result8.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
+</table>
