@@ -25,7 +25,7 @@
             <img src="./css_challenges/ButtonChallenges/c1.gif" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_1/">Open</a>
         </td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@
             <img src="./css_challenges/ButtonChallenges/c2.gif" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_2/">Open</a>
         </td>
     </tr>
      <tr>
@@ -53,7 +53,7 @@
             <img src="./css_challenges/ButtonChallenges/c3.gif" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_3/">Open</a>
         </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@
             <img src="./css_challenges/Footer%20Section/c1.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/Footer%20Section/Challenge_1/">Open</a>
         </td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@
             <img src="./css_challenges/Footer%20Section/c2.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/Footer%20Section/Challenge_2/">Open</a>
         </td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@
             <img src="./css_challenges/FormChallenges/c1.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/FormChallenges/Challenge_1/">Open</a>
         </td>
     </tr>
     <tr>
@@ -109,7 +109,7 @@
             <img src="./css_challenges/FormChallenges/c2.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/FormChallenges/Challenge_2/">Open</a>
         </td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@
             <img src="./css_challenges/NavbarChallenges/c1.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_1/">Open</a>
         </td>
     </tr>
     <tr>
@@ -137,7 +137,7 @@
             <img src="./css_challenges/NavbarChallenges/c2.gif" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_2/">Open</a>
         </td>
     </tr>
     <tr>
@@ -151,7 +151,7 @@
             <img src="./css_challenges/NavbarChallenges/c3.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_3/">Open</a>
         </td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@
             <img src="./css_challenges/TableChallenges/c1.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/TableChallenges/Challenge_1/">Open</a>
         </td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@
             <img src="./css_challenges/TableChallenges/c2.png" />
         </td>
         <td>
-            <a href="#">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/TableChallenges/Challenge_2/">Open</a>
         </td>
     </tr>
 </table>
