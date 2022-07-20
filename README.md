@@ -305,4 +305,18 @@
             <a href="#">Open</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            Live Class Project 9
+        </td>
+        <td>
+            <a href="./projects/live-class-project-9/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/result9.png" />
+        </td>
+        <td>
+            <a href="#">Open</a>
+        </td>
+    </tr>
 </table>
