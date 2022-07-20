@@ -6,14 +6,14 @@
 
 - CSS Pseudo Elements and selectors: Easiest guide for using pseudo selectors and elements in CSS. [https://dhruvilxcode.hashnode.dev/easiest-guide-for-using-pseudo-selectors-and-elements-in-css](https://dhruvilxcode.hashnode.dev/easiest-guide-for-using-pseudo-selectors-and-elements-in-css)
 
-<br/><br>
+<br/>
 ---
 
 ## Netlify URL
 [https://css-projects-dhruvil.netlify.app/](https://css-projects-dhruvil.netlify.app/)
 
 ---
-<br/><br>
+<br/>
 
 ## CSS Challenges
 <table>
