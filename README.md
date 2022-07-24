@@ -208,13 +208,13 @@
             Live Class Project 1
         </td>
         <td>
-            <a href="./projects/live-class-project-01/">View Source</a>
+            <a href="./projects/live-class-project-1/">View Source</a>
         </td>
         <td>
-            <img src="./projects/live-class-project-01/result1.png" />
+            <img src="./projects/live-class-project-1/result1.png" />
         </td>
         <td>
-            <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-01">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-1">Open</a>
         </td>
     </tr>
     <tr>
@@ -250,13 +250,13 @@
             Live Class Project 4
         </td>
         <td>
-            <a href="./projects/live-class-project-04/">View Source</a>
+            <a href="./projects/live-class-project-4/">View Source</a>
         </td>
         <td>
-            <img src="./projects/live-class-project-04/result4.png" />
+            <img src="./projects/live-class-project-4/result4.png" />
         </td>
         <td>
-            <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-04">Open</a>
+            <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-4">Open</a>
         </td>
     </tr>
     <tr>
