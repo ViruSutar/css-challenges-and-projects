@@ -211,7 +211,7 @@
             <a href="./projects/live-class-project-01/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result1.png" />
+            <img src="./projects/live-class-project-01/result1.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-01">Open</a>
@@ -225,7 +225,7 @@
             <a href="./projects/live-class-project-2/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result2.png" />
+            <img src="./projects/live-class-project-2/result2.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-2">Open</a>
@@ -239,7 +239,7 @@
             <a href="./projects/live-class-project-3/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result3.png" />
+            <img src="./projects/live-class-project-3/result3.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-3">Open</a>
@@ -253,7 +253,7 @@
             <a href="./projects/live-class-project-04/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result4.png" />
+            <img src="./projects/live-class-project-04/result4.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-04">Open</a>
@@ -267,7 +267,7 @@
             <a href="./projects/live-class-project-5/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result5.png" />
+            <img src="./projects/live-class-project-5/result5.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-5">Open</a>
@@ -281,7 +281,7 @@
             <a href="./projects/live-class-project-6/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result6.png" />
+            <img src="./projects/live-class-project-6/result6.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-6">Open</a>
@@ -295,7 +295,7 @@
             <a href="./projects/live-class-project-7/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result7.png" />
+            <img src="./projects/live-class-project-7/result7.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-7">Open</a>
@@ -309,7 +309,7 @@
             <a href="./projects/live-class-project-8/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result8.png" />
+            <img src="./projects/live-class-project-8/result8.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-8">Open</a>
@@ -323,7 +323,7 @@
             <a href="./projects/live-class-project-9/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result9.png" />
+            <img src="./projects/live-class-project-9/result9.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-9">Open</a>
@@ -337,7 +337,7 @@
             <a href="./projects/live-class-project-9/">View Source</a>
         </td>
         <td>
-            <img src="./projects/result10.png" />
+            <img src="./projects/live-class-project-10/result10.png" />
         </td>
         <td>
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-10">Open</a>
