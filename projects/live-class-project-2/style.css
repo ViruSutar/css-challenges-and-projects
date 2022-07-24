@@ -54,13 +54,14 @@ section[aria-label="hero"] {
 .hero {
   text-align: center;
   position: relative;
+  margin-top: 10%;
 }
 
 .hero-heading {
   color: rgb(255, 203, 16);
-  font-size: 6.8rem;
+  font-size: 5rem;
   font-weight: 400;
-  line-height: 8rem;
+  line-height: 6rem;
   font-family: 'Dela Gothic One'
 }
 
@@ -75,9 +76,9 @@ section[aria-label="hero"] {
 }
 
 .bottom {
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
 }
 
 @media screen and (max-width: 1024px) {
