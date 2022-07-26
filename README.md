@@ -371,4 +371,18 @@
             <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-12">Open</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            Live Class Project 13
+        </td>
+        <td>
+            <a href="./projects/live-class-project-13/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/live-class-project-13/result13.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-13">Open</a>
+        </td>
+    </tr>
 </table>
