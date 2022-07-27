@@ -387,6 +387,20 @@
     </tr>
     <tr>
         <td>
+            Live Class Project 14
+        </td>
+        <td>
+            <a href="./projects/live-class-project-14/">View Source</a>
+        </td>
+        <td>
+            <img src="./projects/live-class-project-14/result14.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/projects/live-class-project-14">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             Live Class Project 15
         </td>
         <td>
