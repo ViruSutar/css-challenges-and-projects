@@ -1,7 +1,7 @@
 # Live Class Project 8
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In this project, used `linear-gradient` to make good looking buttons. used fixed position on some elements to get similar result from design.

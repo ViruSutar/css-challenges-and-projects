@@ -1,7 +1,7 @@
 # Live Class Project 13
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In Project 13, structured HTML elements from Line 1, added good CSS to match with provided design. this was quick, enjoyed coding it.

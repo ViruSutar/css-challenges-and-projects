@@ -1,7 +1,7 @@
 # Live Class Project 2
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In this project, i got to learn `position: fixed`, `linear-gradient()` to overlay bg-image, `margin`, `padding`, `line-height` to reduce the space between lines. 

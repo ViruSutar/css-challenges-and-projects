@@ -1,7 +1,7 @@
 # Live Class Project 4
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In this project, used `flex-grow`, which helped me achieve the same result as per design.

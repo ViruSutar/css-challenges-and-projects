@@ -1,7 +1,7 @@
 # Live Class Project 6
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In this project, i learnt more about fixed positions and flex properties, to acheive similar results from design.

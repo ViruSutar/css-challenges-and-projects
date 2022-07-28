@@ -1,7 +1,7 @@
 # Live Class Project 11
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In Project 11, studied about grid system, used new CSS property `gap: size;` to give equal spacing in Grid or Flex. created HTML from scratch, structured HTML elements.

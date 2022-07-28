@@ -1,7 +1,7 @@
 # Live Class Project 15
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In Project 15, this was dope design, took long time to build, learnt few new things like Grid template column, gap property. 

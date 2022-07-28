@@ -1,7 +1,7 @@
 # Live Class Project 7
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In this project, explored usage of CSS variable, used `position: absolute` to position discount badge.

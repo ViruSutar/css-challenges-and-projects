@@ -1,7 +1,7 @@
 # Live Class Project 10
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In Project 10, it was different experience, created HTML and added CSS. used similar image to match with design. used `position: fixed` to highlight features.

@@ -1,7 +1,7 @@
 # Live Class Project 12
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In Project 12, created HTML, CSS from scratch and added styles, this was pretty easy after completing Project 11.

@@ -1,7 +1,7 @@
 # Live Class Project 5
 
 # Developer
-**Dhruvil Patel**
+[Dhruvil Patel](https://github.com/dhruvilxcode)
 
 # My Learnings
 In this project, i learnt to give border on specific side, as it is used in navbar, so i used `border-left`.
