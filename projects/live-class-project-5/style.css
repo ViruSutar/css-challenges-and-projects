@@ -88,3 +88,38 @@ body {
     border-radius: 8px;
     font-size: 1.5rem;
 }
+
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        padding: 20px 40px;
+    }
+    .hero-heading {
+        font-size: 3rem;
+    }
+    .hero {
+        margin-top: 100px;
+        padding: 0px 4px;
+    }
+    .line {
+        margin: 0px 10px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .navbar {
+        padding: 20px 40px;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .hero-heading {
+        font-size: 3rem;
+    }
+    .hero {
+        margin-top: 100px;
+        padding: 0px 4px;
+    }
+    .line {
+        display: none;
+    }
+}
