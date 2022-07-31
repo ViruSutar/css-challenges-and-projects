@@ -87,3 +87,40 @@ section[aria-label="hero"] {
     line-height: 5rem;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    padding: 40px;
+    gap: 20px;
+  }
+  
+  .list-item {
+    font-size: 1rem;
+    margin-right: 20px;
+  }
+  .hero-heading {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .navbar {
+    flex-direction: column;
+    justify-content: normal;
+    align-items: center;
+    padding: 40px;
+    gap: 20px;
+  }
+  
+  .list-item {
+    display: inline;
+    color: rgb(255, 203, 16);
+    font-size: 1rem;
+    margin-right: 20px;
+  }
+  .hero-heading {
+    font-size: 2rem;
+    line-height: 2rem;
+  }
+}
