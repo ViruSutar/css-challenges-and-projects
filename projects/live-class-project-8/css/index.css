@@ -92,3 +92,20 @@ nav img {
     position: absolute;
     z-index: 99;
 }
+
+
+@media screen and (max-width: 1440px) {
+    img[alt='intro-img'] {
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .imgs-div {
+        padding-right: 80px;
+        padding-top: 80px;
+        height: 600px;
+        position: relative;
+        z-index: -1;
+    }
+}
