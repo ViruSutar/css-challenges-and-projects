@@ -158,3 +158,40 @@
 .f-description {
     margin-top: 10px;
 }
+
+@media screen and (max-width: 1024px) {
+    .navbar {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .feature-cards {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .feature-cards {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .section-hero {
+        flex-direction: column;
+        padding: 40px;
+    }
+    .section-features {
+        padding: 40px;
+        flex-direction: column;
+    }
+    .section-features-2 {
+        padding: 40px;
+    }
+    .nav-link-btn {
+        display: block;
+        width: fit-content;
+        margin-top: 20px;
+    }
+}
