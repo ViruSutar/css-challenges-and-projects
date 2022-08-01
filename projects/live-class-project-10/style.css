@@ -164,3 +164,29 @@ body {
         width: 250px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .highlight {
+        display: none;
+    }
+    .navbar {
+        flex-wrap: wrap;
+    }
+    
+    .nav-links {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .nav-links::after {
+        content: "";
+        position: absolute;
+        border-bottom: none;
+    }
+    
+    .nav-link {
+        margin-right: 0px;
+    }
+    .cta {
+        gap: 10px;
+    }
+}
