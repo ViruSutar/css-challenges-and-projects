@@ -273,3 +273,62 @@ button {
     height: 24px;
     fill: #fff;
 }
+
+@media screen and (max-width: 1440px) {
+    .section-hero-img {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .navbar {
+        flex-wrap: wrap;
+    }
+    .section-hero {
+        padding: 40px;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section-hero-img {
+        width: 300px;
+    }
+    .skills-grid {
+        flex-wrap: wrap;
+    }
+    .section-hero {
+        flex-direction: column;
+    }
+    .navbar .links-container {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .section-projects-heading {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .section-projects-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .section-cta {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .skills-experience {
+        flex-direction: column;
+    }
+    .skills-experience-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .section-cta {
+        padding: 20px;
+        margin: 20px;
+    }
+}
