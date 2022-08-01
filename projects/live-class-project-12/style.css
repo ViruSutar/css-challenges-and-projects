@@ -278,3 +278,117 @@ button {
     text-decoration: none;
     outline: none;
 }
+
+@media screen and (max-width: 1440px) {
+    .section-intro .section-image img {
+        width: 350px;
+        object-fit: cover;
+    }
+    .section-intro .section-details h1 {
+        font-size: 3rem;
+    }
+    .section-info-image img {
+        width: 600px;
+        height: 600px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .nav {
+        flex-wrap: wrap;
+    }
+    .nav-links {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .nav-link-btn {
+        display: block;
+        margin-top: 20px;
+        width: fit-content;
+    }
+    .section-intro {
+        padding: 40px;
+        gap: 20px;
+    }
+    .section-intro .section-image img {
+        width: 350px;
+        object-fit: cover;
+    }
+    .section-intro .section-details h1 {
+        font-size: 3rem;
+    }
+    .section-intro .section-details {
+        padding: 0px;
+    }
+    .section-info-image img {
+        width: 400px;
+        height: 400px;
+    }
+    .section-intro .section-details .input-box {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section-intro {
+        flex-direction: column;
+    }
+    .section-info-details {
+        flex-direction: column;
+        gap: 40px;
+    }
+    .section-info-image img {
+        width: 300px;
+        height: 300px;
+    }
+    .footer .logo-social {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .footer .social-links {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .footer-links {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .section-team-heading {
+        flex-wrap: wrap;
+    }
+    .section-team-peoples {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .section-intro .section-image img {
+        width: 100%;
+        height: 500px;
+    }
+    .section-video .stats {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .section-video .video img {
+        height: 200px;
+    }
+    .section-info {
+        padding: 20px;
+    }
+    .section-team {
+        padding: 20px;
+    }
+    .footer .social-links {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .footer-links {
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+}
