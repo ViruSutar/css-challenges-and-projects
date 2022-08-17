@@ -14,187 +14,7 @@
 [https://css-projects-dhruvil.netlify.app/](https://css-projects-dhruvil.netlify.app/)
 
 ---
-<br/>
 
-## CSS Challenges
-<table>
-    <tr>
-        <th>Challenge</th>
-        <th>Source</th>
-        <th>Image</th>
-        <th>Live URL</th>
-    </tr>
-    <tr>
-        <td>
-            Button Challenge 1
-        </td>
-        <td>
-            <a href="./css_challenges/ButtonChallenges/Challenge_1/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/ButtonChallenges/c1.gif" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_1/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Button Challenge 2
-        </td>
-        <td>
-            <a href="./css_challenges/ButtonChallenges/Challenge_2/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/ButtonChallenges/c2.gif" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_2/">Open</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            Button Challenge 3
-        </td>
-        <td>
-            <a href="./css_challenges/ButtonChallenges/Challenge_3/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/ButtonChallenges/c3.gif" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_3/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Footer Challenge 1
-        </td>
-        <td>
-            <a href="./css_challenges/Footer%20Section/Challenge_1/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/Footer%20Section/c1.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/Footer%20Section/Challenge_1/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Footer Challenge 2
-        </td>
-        <td>
-            <a href="./css_challenges/Footer%20Section/Challenge_2/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/Footer%20Section/c2.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/Footer%20Section/Challenge_2/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Form Challenge 1
-        </td>
-        <td>
-            <a href="./css_challenges/FormChallenges/Challenge_1/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/FormChallenges/c1.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/FormChallenges/Challenge_1/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Form Challenge 2
-        </td>
-        <td>
-            <a href="./css_challenges/FormChallenges/Challenge_2/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/FormChallenges/c2.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/FormChallenges/Challenge_2/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Navbar Challenge 1
-        </td>
-        <td>
-            <a href="./css_challenges/NavbarChallenges/Challenge_1/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/NavbarChallenges/c1.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_1/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Navbar Challenge 2
-        </td>
-        <td>
-            <a href="./css_challenges/NavbarChallenges/Challenge_2/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/NavbarChallenges/c2.gif" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_2/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Navbar Challenge 3
-        </td>
-        <td>
-            <a href="./css_challenges/NavbarChallenges/Challenge_3/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/NavbarChallenges/c3.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_3/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Table Challenge 1
-        </td>
-        <td>
-            <a href="./css_challenges/TableChallenges/Challenge_1/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/TableChallenges/c1.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/TableChallenges/Challenge_1/">Open</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Table Challenge 2
-        </td>
-        <td>
-            <a href="./css_challenges/TableChallenges/Challenge_2/">View Source</a>
-        </td>
-        <td>
-            <img src="./css_challenges/TableChallenges/c2.png" />
-        </td>
-        <td>
-            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/TableChallenges/Challenge_2/">Open</a>
-        </td>
-    </tr>
-</table>
-
-<br/><br>
 ## Projects
 
 <table>
@@ -415,3 +235,187 @@
         </td>
     </tr>
 </table>
+
+
+
+<br/>
+
+## CSS Challenges
+<table>
+    <tr>
+        <th>Challenge</th>
+        <th>Source</th>
+        <th>Image</th>
+        <th>Live URL</th>
+    </tr>
+    <tr>
+        <td>
+            Button Challenge 1
+        </td>
+        <td>
+            <a href="./css_challenges/ButtonChallenges/Challenge_1/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/ButtonChallenges/c1.gif" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_1/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Button Challenge 2
+        </td>
+        <td>
+            <a href="./css_challenges/ButtonChallenges/Challenge_2/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/ButtonChallenges/c2.gif" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_2/">Open</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Button Challenge 3
+        </td>
+        <td>
+            <a href="./css_challenges/ButtonChallenges/Challenge_3/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/ButtonChallenges/c3.gif" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/ButtonChallenges/Challenge_3/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Footer Challenge 1
+        </td>
+        <td>
+            <a href="./css_challenges/Footer%20Section/Challenge_1/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/Footer%20Section/c1.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/Footer%20Section/Challenge_1/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Footer Challenge 2
+        </td>
+        <td>
+            <a href="./css_challenges/Footer%20Section/Challenge_2/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/Footer%20Section/c2.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/Footer%20Section/Challenge_2/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Form Challenge 1
+        </td>
+        <td>
+            <a href="./css_challenges/FormChallenges/Challenge_1/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/FormChallenges/c1.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/FormChallenges/Challenge_1/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Form Challenge 2
+        </td>
+        <td>
+            <a href="./css_challenges/FormChallenges/Challenge_2/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/FormChallenges/c2.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/FormChallenges/Challenge_2/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Navbar Challenge 1
+        </td>
+        <td>
+            <a href="./css_challenges/NavbarChallenges/Challenge_1/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/NavbarChallenges/c1.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_1/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Navbar Challenge 2
+        </td>
+        <td>
+            <a href="./css_challenges/NavbarChallenges/Challenge_2/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/NavbarChallenges/c2.gif" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_2/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Navbar Challenge 3
+        </td>
+        <td>
+            <a href="./css_challenges/NavbarChallenges/Challenge_3/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/NavbarChallenges/c3.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/NavbarChallenges/Challenge_3/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Table Challenge 1
+        </td>
+        <td>
+            <a href="./css_challenges/TableChallenges/Challenge_1/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/TableChallenges/c1.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/TableChallenges/Challenge_1/">Open</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Table Challenge 2
+        </td>
+        <td>
+            <a href="./css_challenges/TableChallenges/Challenge_2/">View Source</a>
+        </td>
+        <td>
+            <img src="./css_challenges/TableChallenges/c2.png" />
+        </td>
+        <td>
+            <a href="https://css-projects-dhruvil.netlify.app/css_challenges/TableChallenges/Challenge_2/">Open</a>
+        </td>
+    </tr>
+</table>
+
+<br/><br>
