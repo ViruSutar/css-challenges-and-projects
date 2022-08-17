@@ -353,6 +353,9 @@ button {
     .section-intro {
         flex-direction: column;
     }
+    .section-intro .section-image img{
+        width: 100%;
+    }
     .section-info-details {
         flex-direction: column;
         gap: 40px;

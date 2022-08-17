@@ -20,6 +20,15 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.mobile-nav-btn-container {
+    display: none;
+}
+.mobile-nav-btn {
+    background: none;
+    border: none;
+    outline: none;
+    padding: 0 !important;
+}
 .links-container {
     display: flex;
     flex-direction: row;
@@ -188,3 +197,42 @@ button {
 .section-info-details .list ul li:last-child:before {
     height: 10px;
 } 
+
+@media screen and (max-width: 768px) {
+    .mobile-nav-btn-container {
+        display: block;
+    }
+    .links-container {
+        display: none;
+    }
+    .navbar {
+        padding: 20px 40px;
+    }
+    .hero-img {
+        position: relative;
+        width: 100%;
+    }
+    .img-dancers {
+        width: 100%;
+    }
+    .heading, .heading-2 {
+        font-size: 5rem;
+    }
+    .section {
+        flex-direction: column;
+        padding: 0 40px;
+    }
+    .section-details {
+        flex-direction: column;
+        padding: 0 40px;
+    }
+    .section-info-details {
+        flex-direction: column;
+    }
+    .section-details h3 {
+        width: 100%;
+    }
+    .scroll-arrow {
+        display: none;
+    }
+}
