@@ -24,7 +24,14 @@ body {
     align-items: center;
     padding: 60px 80px;
 }
-
+.mobile-nav-btn-container {
+    display: none;
+}
+.mobile-nav-btn {
+    background: none;
+    border: none;
+    outline: none;
+}
 .nav-link {
     color: #888;
     text-decoration: none;
@@ -395,6 +402,12 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+    .mobile-nav-btn-container {
+        display: block;
+    }
+    .nav-links {
+        display: none;
+    }
     .nav-link-btn {
         display: block;
         width: fit-content;

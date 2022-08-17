@@ -29,7 +29,15 @@ body {
     display: flex;
     align-items: center;
 }
-
+.mobile-nav-btn-container {
+    display: none;
+}
+.mobile-nav-btn {
+    padding: 0 !important;
+    background: none;
+    border: none;
+    outline: none;
+}
 .nav-link {
     color: #fff;
     text-decoration: none;
@@ -291,6 +299,15 @@ button {
 }
 
 @media screen and (max-width: 768px) {
+    .navbar {
+        padding: 20px 40px;
+    }
+    .mobile-nav-btn-container {
+        display: block;
+    }
+    .navbar .links-container {
+        display: none;
+    }
     .section-hero-img {
         width: 300px;
     }
@@ -323,6 +340,9 @@ button {
     }
     .skills-experience-grid {
         grid-template-columns: repeat(1, 1fr);
+    }
+    .footer {
+        padding: 20px 40px;
     }
 }
 

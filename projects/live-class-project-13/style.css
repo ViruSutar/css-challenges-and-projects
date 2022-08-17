@@ -18,7 +18,14 @@
     align-items: center;
     justify-content: space-between;
 }
-
+.mobile-nav-btn-container {
+    display: none;
+}
+.mobile-nav-btn {
+    background: none;
+    border: none;
+    outline: none;
+}
 .nav-link {
     color: rgb(212, 212, 212);
     text-decoration: none;
@@ -173,6 +180,13 @@
     .navbar {
         flex-wrap: wrap;
         gap: 20px;
+        padding: 20px 40px;
+    }
+    .mobile-nav-btn-container {
+        display: block;
+    }
+    .nav-links {
+        display: none;
     }
     .feature-cards {
         flex-wrap: wrap;
